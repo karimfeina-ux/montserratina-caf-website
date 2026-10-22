@@ -31,6 +31,10 @@ export const t = {
     openMap: "Obre al mapa",
     footer: "Cafeteria i restaurant informal a Manresa.",
     langLabel: "Idioma",
+    morning: "Matí", evening: "Vespre",
+    dayLine: "Del primer cafè a l'última tapa.",
+    scroll: "Baixa",
+    stamp: "MONTSERRATINA · MURALLA DEL CARME 11 · MANRESA · ",
   },
   es: {
     skip: "Saltar al contenido",
@@ -62,5 +66,9 @@ export const t = {
     openMap: "Abrir en el mapa",
     footer: "Cafetería y restaurante informal en Manresa.",
     langLabel: "Idioma",
+    morning: "Mañana", evening: "Tarde",
+    dayLine: "Del primer café a la última tapa.",
+    scroll: "Baja",
+    stamp: "MONTSERRATINA · MURALLA DEL CARME 11 · MANRESA · ",
   },
 } as const;
